@@ -118,7 +118,7 @@ export default {
   hidden() {
     const { element, options, viewer } = this;
 
-    if (options.fucus) {
+    if (options.focus) {
       this.clearEnforceFocus();
     }
 

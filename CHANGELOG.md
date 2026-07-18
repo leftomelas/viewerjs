@@ -1,5 +1,9 @@
 # Changelog
 
+## next
+
+- Fix wrong `focus` option reference (#667).
+
 ## 1.11.7 (Nov 24, 2024)
 
 - Use SVG icons for better visual effects (#637).
